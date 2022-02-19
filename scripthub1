@@ -1,0 +1,2 @@
+if game.GameId == 7107498084 then -- Anime battle tycoon
+    a = "https://raw.githubusercontent.com/AZAlol123/anime-battles-tycoon-script/main/lol"
